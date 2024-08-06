@@ -163,11 +163,11 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 
    <tr>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Photoshop" />
+        <img src="https://skillicons.dev/icons?i=photoshop" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
         <td align="center" width="96">
-        <img src="" width="48" height="48" alt="" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Premiere.svg" width="48" height="48" alt="" />
       <br>Premiere Pro
     </td>
             <td align="center" width="96">
@@ -175,7 +175,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>After Effect
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="adobe illustrator" />
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" width="48" height="48" alt="adobe illustrator" />
       <br>Adobe illustrator 
     </td>
     <td align="center" width="96">
