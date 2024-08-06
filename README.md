@@ -26,7 +26,7 @@
 </div>
 <p></p>
 <p align="justify">
-welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering student, I learn new things about programming and teach these things to others, I have been programming for almost more than 10 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/barnamenevisiinsta">Barnamenevisinsta</a> that shares everything I learn about programming.
+welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I learn new things about programming and teach these things to others, I have been programming for almost more than 7 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/elfin_ruler/">Elfin_Ruler</a> that shares everything I learn about programming.
 
 </p>
 
