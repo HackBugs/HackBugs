@@ -95,19 +95,19 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Nexus
     </td>
     <td align="center"  width="96">
-        <img src="" width="48" height="48" alt="SonarQube" />
+        <img src="https://assets-eu-01.kc-usercontent.com/275a16f7-9b36-0172-ed6f-fce50dc34f53/12e3974b-220d-4cde-8f17-2ff9fa9d9c27/SonarQube_Logo.svg" width="48" height="48" alt="SonarQube" />
       <br>SonarQube
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Prometheus" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Prometheus.svg" width="48" height="48" alt="Prometheus" />
       <br>Prometheus
     </td>
         <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
       <br>Grafana
     </td>
         <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Chef" />
+        <img src="https://d1l5pp53ux74mz.cloudfront.net/images/cheflibraries/logos/progress-chef-primary-logo-svg.svg?sfvrsn=5865c2aa_3" width="48" height="48" alt="Chef" />
       <br>Chef
     </td>
             <td align="center" width="96">
@@ -127,7 +127,7 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>AWS
     </td>
             <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Oracle" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Oracle.png" width="48" height="48" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
@@ -147,7 +147,7 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Apache Tomcat" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Apache_tomcat.svg" width="48" height="48" alt="Apache Tomcat" />
       <br>Apache Tomcat
     </td>
     <td align="center" width="96">
