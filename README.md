@@ -40,123 +40,127 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C#
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Jenkins.gif" alt="icon" width="65" height="65" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      <a href="">
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Ansible.gif" alt="icon" width="65" height="65" />
       </a>
-      <br>Python
+      <br>Ansible
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>Javascript
-    </td>
-    <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-      <br>C++
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-      <br>Django
-    </td>
-       <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="65" height="65" alt="GitHub" />
-      <br>Github
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="65" height="65" alt="Rest API" />
-      <br>Rest API
-    </td>
-          <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" alt="Rest API" />
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="50" height="50" />
-      <br>Nginx
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Kubernets.gif" alt="icon" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+       <td align="center" width="96">
+        <img src="https://helm.sh/img/helm.svg" alt="icon" width="65" height="65" />
+      <br>Helm
+    </td>
+       <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=terraform" width="65" height="65" alt="Terraform" />
+      <br>Terraform
+    </td>
+          <td align="center" width="96">
+        <img src="https://www.nagios.org/wp-content/uploads/2023/12/Nagios-Logo.svg" width="65" height="65" alt="Nagios" />
+      <br>Nagios
+    </td>
+          <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+      <br>GitHub
     </td>
   </tr>
+  
+  
   <tr>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
+        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+      <br>Nginx
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
     </td>
     <td align="center"  width="96">
         <img src="https://skillicons.dev/icons?i=gitlab" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Nexus" />
+      <br>Nexus
+    </td>
     <td align="center"  width="96">
+        <img src="" width="48" height="48" alt="SonarQube" />
+      <br>SonarQube
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Prometheus" />
+      <br>Prometheus
+    </td>
+        <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Grafana" />
+      <br>Grafana
+    </td>
+        <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Chef" />
+      <br>Chef
+    </td>
+            <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=maven" width="48" height="48" alt="Maven" />
+      <br>Maven
+    </td>
+  </tr>
+  
+  
+   <tr>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Ant" />
+      <br>Ant
+    </td>
+        <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+      <br>AWS
+    </td>
+            <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Oracle" />
+      <br>Oracle
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="tailwind" />
-      <br>Tailwind
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=jquery" width="48" height="48" alt="jquery" />
-      <br>JQuery
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="jquery" />
-      <br>PostgreSQL
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt="ASP.NET Core" />
-      <br>ASP.NET
-    </td>
-  </tr>
-   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-        <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-      <br>Postman
-    </td>
-            <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="" width="48" height="48" alt="Apache Tomcat" />
+      <br>Apache Tomcat
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="dart" />
-      <br>RabbitMQ
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=sentry" width="48" height="48" alt="dart" />
-      <br>sentry
-    </td>
-    <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Celery_logo.png" width="48" height="48" alt="dart" />
-      <br>Celery
-    </td>
-    <td align="center" width="96">
-        <img src="https://docusaurus.io/img/docusaurus_keytar.svg" width="48" height="48" alt="dart" />
-      <br>Docusaurus
-    </td>
-    <td align="center" width="96">
-        <img src="https://bruhin.software/img/logos/pytest.svg" width="40" height="40" alt="dart" />
-      <br>Pytest
+        <img src="https://skillicons.dev/icons?i=ubuntu" width="40" height="40" alt="dart" />
+      <br>Ubuntu
     </td>
   </tr>
  <tr>
  </tr>
-</table>
+ </table>
 
 ## Github stats 📊
 
