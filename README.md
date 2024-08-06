@@ -205,55 +205,31 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
 <details>
   <summary>GitHub Profile Stats 💻</summary>
   <br/>
- 
   <br/>
 </details>
 
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-
 </details>
-
 
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-
 </details>
-
 
 <details>
   <summary>Wakatime ⏳</summary>
   <br/>
-  
-  <br/>
-  <br/>
-  <br/>
-
-  
 </details>
-
 
 <details>
   <summary>Extra Pins 📌</summary>
-  <br/>
- 
+  <br/> 
 </a>
   <br/>
   <br/>
- 
 </a>
-  <br/>
-  <br/>
- 
- </a>
-
-   <br/>
-  <br/>
- 
- </a>
- 
 </details>
 
 ## Recent GitHub Activity ✅
