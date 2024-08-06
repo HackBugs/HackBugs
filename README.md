@@ -160,6 +160,47 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
   </tr>
  <tr>
  </tr>
+
+   <tr>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Photoshop" />
+      <br>Photoshop
+    </td>
+        <td align="center" width="96">
+        <img src="" width="48" height="48" alt="" />
+      <br>Premiere Pro
+    </td>
+            <td align="center" width="96">
+        <img src="" width="48" height="48" alt="After Effect" />
+      <br>After Effect
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="adobe illustrator" />
+      <br>Adobe illustrator 
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="adobe audition" />
+      <br>Adobe audition
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Audacity" />
+      <br>Audacity
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="Blender" />
+      <br>Blender
+    </td>
+    <td align="center" width="96">
+        <img src="" width="48" height="48" alt="fl studio" />
+      <br>fl studio
+    </td>
+    <td align="center" width="96">
+        <img src="Mixcraft" width="40" height="40" alt="Mixcraft" />
+      <br>
+    </td>
+  </tr>
+ <tr>
+ </tr>
  </table>
 
 ## Github stats 📊
