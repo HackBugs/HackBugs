@@ -1,5 +1,9 @@
 ## Hi There 👋 I'm Shahnwaj Aalam Know as <a href="https://www.youtube.com/@HackBugs">HackBugs</a> and <a href="https://www.instagram.com/elfin_ruler/">Elfin_Ruler</a>
 
+## Recent GitHub Activity ✅
+
+![Metrics](https://github.com/HackBugs/HackBugs/blob/main/assets/Metrics.lecoq.io.png)
+
 <div align="justify">
 
 <a href="https://www.instagram.com/elfin_ruler/">
@@ -230,10 +234,6 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
   <br/>
 </a>
 </details>
-
-## Recent GitHub Activity ✅
-
-![Metrics](https://github.com/HackBugs/HackBugs/blob/main/assets/Metrics.lecoq.io.png)
 
 ## GitHub Profile Trophy 🏆
 
