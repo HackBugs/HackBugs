@@ -91,7 +91,7 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>GitLab
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Nexus" />
+        <img src="https://www.sonatype.com/hs-fs/hubfs/Sonatype_logo_full_color.png?width=272&height=54&name=Sonatype_logo_full_color.png" width="48" height="48" alt="Nexus" />
       <br>Nexus
     </td>
     <td align="center"  width="96">
@@ -192,8 +192,8 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>fl studio
     </td>
     <td align="center" width="96">
-        <img src="Mixcraft" width="40" height="40" alt="Mixcraft" />
-      <br>
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/Mixcroft.jpeg" width="40" height="40" alt="Mixcraft" />
+      <br>Mixcraft
     </td>
   </tr>
  <tr>
