@@ -126,11 +126,11 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>AWS
     </td>
             <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Oracle" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Oracle.png" width="48" height="48" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Oracle.png" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/mysql.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
@@ -167,11 +167,11 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Premiere Pro
     </td>
             <td align="center" width="96">
-        <img src="" width="48" height="48" alt="After Effect" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/adobe_after_effects.svg" width="48" height="48" alt="After Effect" />
       <br>After Effect
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/adobe_after_effects.svg" width="48" height="48" alt="adobe illustrator" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Adobe-Illustrator.svg" width="48" height="48" alt="adobe illustrator" />
       <br>Adobe illustrator 
     </td>
     <td align="center" width="96">
