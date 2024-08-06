@@ -171,7 +171,7 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Premiere Pro
     </td>
             <td align="center" width="96">
-        <img src="" width="48" height="48" alt="After Effect" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/adobe_after_effects.svg" width="48" height="48" alt="After Effect" />
       <br>After Effect
     </td>
     <td align="center" width="96">
@@ -179,19 +179,19 @@ welcome to my GitHub Page. I am Reza Shakeri and now Computer engineering studen
       <br>Adobe illustrator 
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="adobe audition" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/adobe_audition.svg" width="48" height="48" alt="adobe audition" />
       <br>Adobe audition
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Audacity" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/audacity.svg" width="48" height="48" alt="Audacity" />
       <br>Audacity
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="Blender" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/blender_3d.svg" width="48" height="48" alt="Blender" />
       <br>Blender
     </td>
     <td align="center" width="96">
-        <img src="" width="48" height="48" alt="fl studio" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/fl_studio.svg" width="48" height="48" alt="fl studio" />
       <br>fl studio
     </td>
     <td align="center" width="96">
