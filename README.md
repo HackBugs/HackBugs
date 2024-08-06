@@ -2,7 +2,7 @@
 
 ## Recent GitHub Activity ✅
 
-![Metrics](https://github.com/HackBugs/HackBugs/blob/main/assets/Metrics.lecoq.io.png)
+![Metrics](https://github.com/HackBugs/HackBugs/blob/main/assets/Metrics.lecoq.io1.png)
 
 <div align="justify">
 
