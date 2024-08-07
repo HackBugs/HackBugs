@@ -154,7 +154,7 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Apache Tomcat
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Ubuntu.svg" width="40" height="40" alt="dart" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/ubuntu-original.svg" width="40" height="40" alt="dart" />
       <br>Ubuntu
     </td>
   </tr>
