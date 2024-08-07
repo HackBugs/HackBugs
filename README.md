@@ -199,6 +199,14 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
  </tr>
  </table>
 
+> ### OS ⚙️
+
+| Linux | Ubuntu | Kali | Windows |
+|-------|--------|------|---------|
+| <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/kalilinux.svg" title="Kali" alt="Kali" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+
+
+
 ## Github stats 📊
 
 <details>
