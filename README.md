@@ -87,8 +87,8 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Nginx
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Linux.svg" width="48" height="48" alt="Linux" />
-      <br>Linux
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/icons-2/Kafka.svg" width="48" height="48" alt="Kafka" />
+      <br>Kafka
     </td>
     <td align="center"  width="96">
         <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/GitLab.svg" width="48" height="48" alt="GitLab" />
