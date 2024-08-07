@@ -36,7 +36,7 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
 ## My favorite tools and technologies ⚙️
 
 > Tools and technologies that I have worked with and am interested in
-
+<!-- Box Number -1 -->
 <table>
   <tr>
     <td align="center" width="96">
@@ -78,7 +78,8 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>GitHub
     </td>
   </tr>
-  
+
+  <!-- Box Number -2 -->
   
   <tr>
     <td align="center" width="96">
@@ -118,7 +119,8 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Maven
     </td>
   </tr>
-  
+
+  <!-- Box Number -3 -->
   
    <tr>
     <td align="center" width="96">
@@ -158,6 +160,8 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Ubuntu
     </td>
   </tr>
+
+<!-- Box Number -4 -->
 
    <tr>
     <td align="center" width="96">
