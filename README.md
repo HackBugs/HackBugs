@@ -158,8 +158,6 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
       <br>Ubuntu
     </td>
   </tr>
- <tr>
- </tr>
 
    <tr>
     <td align="center" width="96">
@@ -198,8 +196,6 @@ welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I lear
         <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Mixcroft.jpeg" width="40" height="40" alt="Mixcraft" />
       <br>Mixcraft
     </td>
-  </tr>
- <tr>
  </tr>
  </table>
 
