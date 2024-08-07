@@ -1,8 +1,11 @@
 ## Hi There 👋 I'm Shahnwaj Aalam Know as <a href="https://www.youtube.com/@HackBugs">HackBugs</a> and <a href="https://www.instagram.com/elfin_ruler/">Elfin_Ruler</a>
 
-## Recent GitHub Activity ✅
+<!-- ## Recent GitHub Activity ✅ -->
+<td align="center" width="300">
+        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
+      <br>HackBugs
 
-![Metrics](https://github.com/HackBugs/HackBugs/blob/main/assets/Metrics.lecoq.io1.png)
+<!-- ![YouTube Channel](https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg) -->
 
 <div align="justify">
 
