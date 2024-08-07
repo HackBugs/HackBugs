@@ -3,9 +3,6 @@
 <!-- ## Recent GitHub Activity ✅ -->
 <td align="center" width="300">
         <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
-      <br>HackBugs
-
-<!-- ![YouTube Channel](https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg) -->
 
 <div align="justify">
 
