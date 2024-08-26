@@ -2,36 +2,54 @@
 
 <!-- ## Recent GitHub Activity ✅ -->
 <td align="center" width="300">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
+<!--         <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" /> -->
+        <a href="https://www.youtube.com/channel/UCk-s0wPeBVNoSUCukD5x9iQ">
+    <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
+</a>
+
+
+
+<p align="justify">
+<p>
+        
+>Welcome to my GitHub page!
+I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in programming. I’m passionate about learning new technologies and sharing my knowledge with others. Throughout my journey, I’ve worked with various languages and tools, continuously expanding my skill set. In addition to GitHub, I run an Instagram account called [elfin_ruler](https://www.instagram.com/elfin_ruler/) and a [YouTube channel called HackBugs](https://www.youtube.com/@hackbugs), where I share insights and tutorials on everything I learn about programming.
+</p>
+
+<!-- https://custom-icon-badges.demolab.com/ --> <!-- custom icons -->
+
+   <p align="left">
+      <a href="https://www.youtube.com/c/HackBugs?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCk-s0wPeBVNoSUCukD5x9iQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/HackBugs">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCk-s0wPeBVNoSUCukD5x9iQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/HackBugs?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/HackBugs?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 <div align="justify">
-
 <a href="https://www.instagram.com/elfin_ruler/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!--  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.youtube.com/@HackBugs">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://www.linkedin.com/in/shahnwaj-aalam-87a58020b/">
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://t.me/HackBugs">
 <img src="https://img.shields.io/badge/telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 <a href="https://github.com/HackBugs">
 <img src="https://img.shields.io/badge/gitlab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
 </a>
-
 </div>
-<p></p>
-<p align="justify">
-welcome to my GitHub Page. I am ShahnwaJ Aalam and now Computer engineer, I learn new things about programming and teach these things to others, I have been programming for almost more than 7 years and worked with many languages and technologies. Also, inside Instagram, I have a media called <a href="https://www.instagram.com/elfin_ruler/">Elfin_Ruler</a> and <a href="https://www.youtube.com/@HackBugs">HackBugs YouTube Channel</a> that shares everything I learn about programming.
-
-</p>
 
 ## My favorite tools and technologies ⚙️
 
