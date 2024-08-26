@@ -2,9 +2,9 @@
 
 <!-- ## Recent GitHub Activity ✅ -->
 <td align="center" width="300">
-<!--         <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" /> -->
+<!--         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" /> -->
         <a href="https://www.youtube.com/channel/UCk-s0wPeBVNoSUCukD5x9iQ">
-    <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
+    <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/HackBugs-YouTube.svg" alt="icon" width="800" height="150" />
 </a>
 
 
@@ -60,41 +60,41 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Jenkins.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Jenkins.gif" alt="icon" width="65" height="65" />
       <br>Jenkins
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Ansible.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Ansible.gif" alt="icon" width="65" height="65" />
       </a>
       <br>Ansible
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/docker-icon.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/docker-icon.svg" alt="icon" width="65" height="65" />
       <br>Docker
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Kubernets.gif" alt="icon" width="65" height="65" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Kubernets.gif" alt="icon" width="65" height="65" />
       <br>Kubernetes
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/helm.svg" alt="icon" width="65" height="65" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/helm.svg" alt="icon" width="65" height="65" />
       <br>Helm
     </td>
        <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Terraform.svg" width="65" height="65" alt="Terraform" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Terraform.svg" width="65" height="65" alt="Terraform" />
       <br>Terraform
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Nagios-Logo.svg" width="65" height="65" alt="Nagios" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Nagios-Logo.svg" width="65" height="65" alt="Nagios" />
       <br>Nagios
     </td>
           <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Git.svg" width="65" height="65" alt="Git" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Git.svg" width="65" height="65" alt="Git" />
       <br>Git
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/github-icon.svg" alt="icon" width="50" height="50" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/github-icon.svg" alt="icon" width="50" height="50" />
       <br>GitHub
     </td>
   </tr>
@@ -103,39 +103,39 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
   
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/nginx-icon.svg" width="48" height="48" alt="Nginx" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/nginx-icon.svg" width="48" height="48" alt="Nginx" />
       <br>Nginx
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/icons-2/Kafka.svg" width="48" height="48" alt="Kafka" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/icons-2/Kafka.svg" width="48" height="48" alt="Kafka" />
       <br>Kafka
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/GitLab.svg" width="48" height="48" alt="GitLab" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/GitLab.svg" width="48" height="48" alt="GitLab" />
       <br>GitLab
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Nexus.webp" width="48" height="48" alt="Nexus" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Nexus.webp" width="48" height="48" alt="Nexus" />
       <br>Nexus
     </td>
     <td align="center"  width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/SonarQube.svg" width="48" height="48" alt="SonarQube" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/SonarQube.svg" width="48" height="48" alt="SonarQube" />
       <br>SonarQube
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Prometheus.svg" width="48" height="48" alt="Prometheus" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Prometheus.svg" width="48" height="48" alt="Prometheus" />
       <br>Prometheus
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Grafana-Dark.svg" width="48" height="48" alt="Grafana" />
       <br>Grafana
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Progress-Chef.svg" width="48" height="48" alt="Chef" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Progress-Chef.svg" width="48" height="48" alt="Chef" />
       <br>Chef
     </td>
             <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Maven.svg" width="48" height="48" alt="Maven" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Maven.svg" width="48" height="48" alt="Maven" />
       <br>Maven
     </td>
   </tr>
@@ -144,39 +144,39 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
   
    <tr>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Apache-Ant.svg.png" width="48" height="48" alt="Ant" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Apache-Ant.svg.png" width="48" height="48" alt="Ant" />
       <br>Ant
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/AWS.svg" width="48" height="48" alt="AWS" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/AWS.svg" width="48" height="48" alt="AWS" />
       <br>AWS
     </td>
             <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Oracle.png" width="48" height="48" alt="Oracle" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Oracle.png" width="48" height="48" alt="Oracle" />
       <br>Oracle
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/mysql.svg" width="48" height="48" alt="MySQL" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/mysql.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/HTML.svg" width="48" height="48" alt="HTML" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/HTML.svg" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/css.svg" width="48" height="48" alt="CSS" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/css.svg" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/JavaScript.svg" width="48" height="48" alt="JavaScript" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/JavaScript.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Apache_tomcat.svg" width="48" height="48" alt="Apache Tomcat" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Apache_tomcat.svg" width="48" height="48" alt="Apache Tomcat" />
       <br>Apache Tomcat
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/ubuntu-original.svg" width="40" height="40" alt="dart" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/ubuntu-original.svg" width="40" height="40" alt="dart" />
       <br>Ubuntu
     </td>
   </tr>
@@ -185,39 +185,39 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
 
    <tr>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Photoshop.svg" width="48" height="48" alt="Photoshop" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Photoshop.svg" width="48" height="48" alt="Photoshop" />
       <br>Photoshop
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Premiere-pro.svg" width="48" height="48" alt="" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Premiere-pro.svg" width="48" height="48" alt="" />
       <br>Premiere Pro
     </td>
             <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/adobe_after_effects.svg" width="48" height="48" alt="After Effect" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/adobe_after_effects.svg" width="48" height="48" alt="After Effect" />
       <br>After Effect
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Adobe-Illustrator.svg" width="48" height="48" alt="adobe illustrator" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Adobe-Illustrator.svg" width="48" height="48" alt="adobe illustrator" />
       <br>Adobe illustrator 
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/adobe_audition.svg" width="48" height="48" alt="adobe audition" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/adobe_audition.svg" width="48" height="48" alt="adobe audition" />
       <br>Adobe audition
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/audacity.svg" width="48" height="48" alt="Audacity" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/audacity.svg" width="48" height="48" alt="Audacity" />
       <br>Audacity
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/blender_3d.svg" width="48" height="48" alt="Blender" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/blender_3d.svg" width="48" height="48" alt="Blender" />
       <br>Blender
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/fl_studio.svg" width="48" height="48" alt="fl studio" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/fl_studio.svg" width="48" height="48" alt="fl studio" />
       <br>fl studio
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/Mixcroft.jpeg" width="40" height="40" alt="Mixcraft" />
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Mixcroft.jpeg" width="40" height="40" alt="Mixcraft" />
       <br>Mixcraft
     </td>
  </tr>
@@ -227,7 +227,7 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
 
 | Linux | Ubuntu | Kali | Windows |
 |-------|--------|------|---------|
-| <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/kalilinux.svg" title="Kali" alt="Kali" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/main/assets/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
+| <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/kalilinux.svg" title="Kali" alt="Kali" width="55" height="55"/> | <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/windows11-original.svg" title="Windows" alt="Windows" width="55" height="55"/> |
 
 
 
