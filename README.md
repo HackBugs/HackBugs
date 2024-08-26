@@ -29,6 +29,8 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    </p>
 
+<hr>
+
 <div align="justify">
 <a href="https://www.instagram.com/elfin_ruler/">
 <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
