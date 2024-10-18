@@ -53,9 +53,9 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
 </a>
 </div>
 
-## My favorite tools and technologies ⚙️
+## My Favorite Tools And Technologies ⚙️
 
-> Tools and technologies that I have worked with and am interested in
+> Tools and Technologies that I have worked with and am interested in
 <!-- Box Number -1 -->
 <table>
   <tr>
