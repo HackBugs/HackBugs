@@ -64,7 +64,7 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
       <br>Oracle Database 
     </td>
     <td align="center" width="96">
-      <a href="">
+<!--       <a href=""> -->
          <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/mysql.svg" width="48" height="48" alt="MySQL" />
       <br>MySQL & PostgreSQL
     </td>
