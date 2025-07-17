@@ -60,18 +60,17 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
 <table>
   <tr>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Jenkins.gif" alt="icon" width="65" height="65" />
-      <br>Jenkins
+         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Oracle.png" width="48" height="48" alt="Oracle Database" />
+      <br>Oracle Database 
     </td>
     <td align="center" width="96">
       <a href="">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Ansible.gif" alt="icon" width="65" height="65" />
-      </a>
-      <br>Ansible
+         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/mysql.svg" width="48" height="48" alt="MySQL" />
+      <br>MySQL & PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/docker-icon.svg" alt="icon" width="65" height="65" />
-      <br>Docker
+       <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/AWS.svg" width="48" height="48" alt="AWS" />
+      <br>AWS
     </td>
     <td align="center" width="96">
         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Kubernets.gif" alt="icon" width="65" height="65" />
@@ -148,16 +147,17 @@ I’m Shahnwaj Aalam, a Computer Engineer with over 7 years of experience in pro
       <br>Ant
     </td>
         <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/AWS.svg" width="48" height="48" alt="AWS" />
-      <br>AWS
+         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/docker-icon.svg" alt="icon" width="65" height="65" />
+      <br>Docker
     </td>
             <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Oracle.png" width="48" height="48" alt="Oracle" />
-      <br>Oracle
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Jenkins.gif" alt="icon" width="65" height="65" />
+      <br>Jenkins
     </td>
     <td align="center" width="96">
-        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/mysql.svg" width="48" height="48" alt="MySQL" />
-      <br>MySQL
+        <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/Ansible.gif" alt="icon" width="65" height="65" />
+      </a>
+      <br>Ansible
     </td>
     <td align="center" width="96">
         <img src="https://github.com/HackBugs/HackBugs/blob/master/assets/HTML.svg" width="48" height="48" alt="HTML" />
